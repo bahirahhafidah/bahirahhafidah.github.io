@@ -27,7 +27,7 @@ h3 {font-family: "Garamond", serif;
 	text-decoration-color: #734d26;
 	text-decoration-style: solid; }
 
-table {margin: 2px;
+table {margin: 10px;
 	width: 65%;
 	background-color: #ffb3ff;
 	border: 3px solid orange;}
@@ -45,4 +45,5 @@ td {width: 20%;
 	border: 3px solid orange;}
 
 p {font-family: "Georgia", serif;
-	text-align: justify-all;}
+	text-align: justify-all;
+font-size: 20px;}
